@@ -3,4 +3,8 @@ Projeto para a disciplina de Residência.
 
 ## Instalação
 
+Detalhes.    
+
+## Dependencias
+
 Detalhes.
